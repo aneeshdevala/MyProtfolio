@@ -1,48 +1,48 @@
 {
-    "name": "Muhammad Hamza",
-    "email": "hamza@mhmz.dev",
+    "name": "Aneesh",
+    "email": "aneesh172.ant@gmail.com",
     "subtitles": [
         "Flutter Developer",
-        "Technical Writer",
+  
         "UI/UX Designer"
     ],
-    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
-    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "blackWhitePhotoURL": "assets/photos/blk&white.jpeg",
+    "coloredPhotoURL": "assets/photos/blk&white.jpeg",
     "socialLinks": [
         {
             "platform": "facebook",
-            "url": "https://facebook.com/mhmzdev"
+            "url": "https://www.facebook.com/aneesh.aneeshanee.3"
         },
         {
             "platform": "instagram",
-            "url": "https://instagram.com/mhmzdev"
+            "url": "https://instagram.com/aneesh_bin_azeez"
         },
         {
             "platform": "twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://twitter.com/aneesh172"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/mhmzdev"
+            "url":   "https://linkedin.com/in/aneesh devala"
         },
         {
             "platform": "github",
-            "url": "https://github.com/mhmzdev"
+            "url":   "https://github.com/aneeshdevala"
         },
         {
             "platform": "medium",
-            "url": "https://mhamzadev.medium.com/"
+            "url":  "https://medium.com/@aneesh172.ant"
         }
     ],
-    "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and UI/UX Designer.",
-    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "aboutMeHeadline": "I'm Aneesh, a Flutter developer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Fresh Msc  Graduate with Computer Science as Majors from Bharathiar University, Coimbatore. I have been developing mobile apps for over 7 months now. I also Completed Google Ui/Ux Certification and  helped to  them in launching their prototypes and got valuable learning experience. Currently working on a project its named Jobizy app",
     "technologies": [
         "Flutter",
         "Dart",
-        "Python",
         "Java",
-        "C++",
-        "Flask"
+        "C",
+        "C++"
+        
     ],
     "services": [
         {
@@ -55,16 +55,8 @@
             "name": "UI/UX Designing",
             "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
         },
-        {
-            "icon": "assets/services/rapid.png",
-            "name": "Rapid Prototyping",
-            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
-        },
-        {
-            "icon": "assets/services/blog.png",
-            "name": "Technical Blog Writing",
-            "description": "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"
-        },
+     
+       
         {
             "icon": "assets/services/open.png",
             "name": "Open Source - GitHub",
@@ -72,88 +64,36 @@
         }
     ],
     "hireMe": {
-        "whatsapp": "923460159889"
+        "whatsapp": "7598340172"
     },
     "projects": [
         {
-            "title": "Awesome SnackBar",
-            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
-            "bannerUrl": "assets/projects/medkitB.png",
-            "description": "A dart package including a wholesome experience of snackbar in your applications."
+            "title": "Musica Music Player",
+            "iconUrl": "https://play.google.com/store/apps/details?id=in.brototype.music_app&hl=en_IN&gl=US",
+            "bannerUrl": "assets/projects/Feuture grapic.png",
+            "description": "'Musica'It's an offline music player with basic features with the help of Flutter Its Available in Play Store now."
         },
         {
-            "title": "MedKit",
-            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
-            "bannerUrl": "assets/projects/medkitB.png",
-            "description": "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels."
-        },
-        {
-            "title": "The Holy Qur'an",
-            "iconUrl": "https://drive.google.com/file/d/1jpkSQyGZP5EWPCIfRz-dU9TARXHN2P5o/view?usp=sharing",
-            "bannerUrl": "assets/projects/quranB.png",
-            "description": "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md"
-        },
-        {
-            "title": "Here I Am",
-            "iconUrl": "assets/projects/hereiam.png",
-            "bannerUrl": "assets/projects/hereiamB.png",
-            "description": "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones."
-        },
-        {
-            "title": "COIVD 19 - Tracker",
-            "iconUrl": "assets/projects/covid.png",
-            "bannerUrl": "assets/projects/covidB.png",
-            "description": "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live."
-        },
-        {
-            "title": "Messenger Chat Head UI",
-            "iconUrl": "assets/projects/messenger.png",
-            "bannerUrl": "",
-            "description": "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head."
-        },
-        {
-            "title": "flutter.dev - Flutter Web",
-            "iconUrl": "assets/projects/flutter.png",
-            "bannerUrl": "",
-            "description": "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues."
-        },
-        {
-            "title": "Earbender",
-            "iconUrl": "assets/projects/earbender.png",
-            "bannerUrl": "",
-            "description": "A concept of Music App developed using Flutter. Having functionality of playing Audio."
-        },
-        {
-            "title": "File Transfer Protocol",
-            "iconUrl": "assets/projects/java.png",
-            "bannerUrl": "",
-            "description": "A simple GUI based Java application that sends file from Client to Server but not the other way around."
-        },
-        {
-            "title": "My Order",
-            "iconUrl": "assets/projects/android.png",
-            "bannerUrl": "",
-            "description": "A concept app for self-services at various restaurants now a days. More like a Restaurant Ordering System."
-        },
-        {
-            "title": "Hidev",
-            "iconUrl": "assets/services/open.png",
-            "bannerUrl": "",
-            "description": "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
+            "title": "JobEzy",
+            "iconUrl": "https://github.com/aneeshdevala/JobEzy",
+            "bannerUrl":  "assets/projects/jobezy.png",
+            "description": "Application of JobEzy,Its helped to find the jobs,hiring new employees and its acts as a social media. Developed using Flutter"
+        
         }
+        
     ],
     "contact": [
         {
             "param": "address",
-            "value": "Attock, Pakistan"
+            "value": "Tamilnadu, India"
         },
         {
             "param": "phone",
-            "value": "+92 346 0159889"
+            "value": "+91 7598340172"
         },
         {
             "param": "email",
-            "value": "hamza.6.shakeel@gmail.com"
+            "value": "aneesh172.ant@gmail.com"
         }
     ]
 }
