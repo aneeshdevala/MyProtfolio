@@ -1,11 +1,11 @@
 class ProjectUtils {
   static const List<String> banners = [
-  "assets/projects/Feuture grapic.png",
+    "assets/projects/Feuture grapic.png",
     "assets/projects/jobezy.png",
     "assets/projects/Family App.png",
     "assets/projects/CNN arti.png",
     "assets/projects/firebase.png",
-   // "assets/projects/flutter.png",
+    // "assets/projects/flutter.png",
   ];
 
   static const List<String> icons = [
@@ -24,7 +24,6 @@ class ProjectUtils {
     "CNN Artifical Intelligence",
     "Cliffix",
     "Firebase Authentication",
-    "Student Database",
   ];
 
   static const List<String> description = [
@@ -34,7 +33,7 @@ class ProjectUtils {
     "With the use of a Convolutional Neural Network (CNN), this app can intelligently classify the images you input into cats and dogs. The deep learning model is built using Google's Teachable Machine.",
     "The project is Video Sharing Platform Like YouTube The project is all about creating and watching videos using flutter and backend Using node js ,",
     "Firebase Authentication is a service that provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. This guide shows you how to integrate Firebase Authentication into your Flutter app.",
-    "Student Database is a application for store a student details The project is all about creating and view all student details,Using Flutter and Hive"
+    //"Student Database is a application for store a student details The project is all about creating and view all student details,Using Flutter and Hive"
   ];
 
   static const List<String> links = [
@@ -44,6 +43,6 @@ class ProjectUtils {
     "https://github.com/aneeshdevala/ArtificialintelligenceinFlutter-CNN-",
     "https://github.com/aneeshdevala/Cliffix-video-platform",
     "https://github.com/aneeshdevala/FirebaseAuth",
-    "https://github.com/aneeshdevala/provider-studentdb",
+    //"https://github.com/aneeshdevala/provider-studentdb",
   ];
 }

@@ -134,6 +134,7 @@ class ProjectCardState extends State<ProjectCard> {
                 ),
                 Text(
                   widget.projectDescription,
+                  maxLines: 6,
                   textAlign: TextAlign.center,
                 ),
                 SizedBox(
@@ -150,7 +151,7 @@ class ProjectCardState extends State<ProjectCard> {
                     ? Image.asset(
                         widget.banner!,
                       )
-                    : Container(),
+                    : const SizedBox(),
               ),
             ),
           ],
